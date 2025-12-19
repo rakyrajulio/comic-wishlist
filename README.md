@@ -21,9 +21,6 @@ Cocok buat yang males nyatet tapi pengen rapi 😄
 ---
 
 ## 🚀 Demo
-👉 https://USERNAME.github.io/comic-wishlist/
-
-(Ganti `USERNAME` dengan username GitHub kamu)
 
 ---
 
