@@ -21,7 +21,7 @@ function render() {
       <div>
         <b>${c.title}</b><br>
         <small class="text-gray-600 dark:text-gray-300">
-          Terakhir dibaca: ${c.lastRead || "-"}
+          Terakhir dibaca/nonton: ${c.lastRead || "-"}
         </small><br>
         <a href="${c.url}" target="_blank"
            class="text-blue-600 dark:text-blue-400 text-sm">
